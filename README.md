@@ -1,6 +1,6 @@
 ## Accounts
 
- | Serviece | URL                           | Notes |
+ | Service  | URL                           | Notes |
  |----------|-------------------------------|-|
  | GitLab   | https://gitlab.com/kurousada  | Main |
  | GitHub   | https://github.com/kurousada  | |
